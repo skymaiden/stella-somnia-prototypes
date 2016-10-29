@@ -1,6 +1,6 @@
 {
   "name": "Stella Somnia",
   "tagline": "Digital prototypes",
-  "body": "## Control\r\n\r\n*   [Avatar controls 1](https://cdn.rawgit.com/skymaiden/stella-somnia-prototypes/master/proto_controls1/index.html): tap left half to move left, tap right half to move right, swipe any direction to jump.\r\n*   [Avatar controls 2](https://cdn.rawgit.com/skymaiden/stella-somnia-prototypes/master/proto_controls2/index.html): tap avatar left to move left, tap avatar right to move right, swipe any direction to jump.",
+  "body": "## Control\r\n\r\n*   [Avatar controls 1](https://cdn.rawgit.com/skymaiden/stella-somnia-prototypes/master/proto_controls1/index.html): \r\n    * tap left half to move left\r\n    * tap right half to move right\r\n    * swipe any direction to jump\r\n*   [Avatar controls 2](https://cdn.rawgit.com/skymaiden/stella-somnia-prototypes/master/proto_controls2/index.html): \r\n    * tap avatar left to move left\r\n    * tap avatar right to move right\r\n    * swipe any direction to jump",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
